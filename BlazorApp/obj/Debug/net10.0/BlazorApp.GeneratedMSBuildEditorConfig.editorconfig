@@ -33,20 +33,16 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/cjcar/Personal Website/BlazorApp/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/cjcar/Personal Website/BlazorApp/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+[c:/Users/cjcar/Personal Website/BlazorApp/Pages/GameDev.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZURldi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/cjcar/Personal Website/BlazorApp/Pages/NotFound.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90Rm91bmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/cjcar/Personal Website/BlazorApp/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+[c:/Users/cjcar/Personal Website/BlazorApp/Pages/Timeline.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGltZWxpbmUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/cjcar/Personal Website/BlazorApp/_Imports.razor]
@@ -60,3 +56,7 @@ build_metadata.AdditionalFiles.CssScope = b-kc989pta5g
 [c:/Users/cjcar/Personal Website/BlazorApp/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-iqpjrornlq
+
+[c:/Users/cjcar/Personal Website/BlazorApp/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-jtngwpdce8
